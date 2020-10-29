@@ -1,0 +1,17 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.social li {
+  list-style: none;
+  display: inline-block;
+  color: #1EDD88;
+  font-size: 30px;
+  padding: 8px;
+}
